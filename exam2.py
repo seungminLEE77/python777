@@ -382,4 +382,3 @@ print(jin.__weight)
 
 print('hi')
 
-
