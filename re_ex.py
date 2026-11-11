@@ -50,7 +50,7 @@ print(result.group())
 
 print('=== 정규 표현식 : 문자열 치환(replace eotls re.sub) ===')
 
-text = '가격은 12000원 입니다.'
+text2 = '가격은 12000원 입니다.'
 
 #숫자 제거
 new_text = re.sub(r'\d+','', text2)
