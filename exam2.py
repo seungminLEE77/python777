@@ -379,7 +379,3 @@ jin = Person()
 jin.print_weight()
 
 print(jin.__weight)
-
-print('hi')
-print('hi')
-print('hi')
