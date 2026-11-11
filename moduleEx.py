@@ -66,7 +66,7 @@ data = {
     'name': 'jin',
     'age': 22
 }
-print(json.dump(data))
+print(json.dumps(data))
 
 
 #정규표현식 모듈
@@ -91,6 +91,6 @@ with open('test.csv', 'w', newline='')as f:
 #자료구조를 편하게 쓰도록 도와줌
 #카운트, 큐, 딕셔너리 확장 기능 제공
 
-from collections import counter
+from collections import Counter
 
 print(counter('apple'))
