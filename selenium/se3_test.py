@@ -34,7 +34,7 @@ for block in quote_blocks:
 
 
 
-resaulta.append({
+resurts.append({
     'page': 1,
     'quote': quote_text,
     'athhor': author,
